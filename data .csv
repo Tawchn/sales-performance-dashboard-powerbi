@@ -1,0 +1,36 @@
+CustomerID,CustomerName,Country,City,Segment
+C001,John Smith,UK,Bristol,Consumer
+C002,Sarah Johnson,UK,London,Corporate
+C003,Michael Brown,USA,New York,Consumer
+C004,Emily Davis,Canada,Toronto,Home Office
+C005,Daniel Wilson,UK,Manchester,Consumer
+C006,Olivia Martin,USA,Chicago,Corporate
+C007,James Taylor,Australia,Sydney,Consumer
+C008,Sophia Anderson,UK,Birmingham,Home Office
+
+
+ProductID,ProductName,Category,SubCategory,UnitPrice
+P001,Laptop,Technology,Computers,900
+P002,Mouse,Technology,Accessories,25
+P003,Office Chair,Furniture,Chairs,180
+P004,Desk,Furniture,Tables,350
+P005,Printer,Technology,Office Equipment,220
+P006,Notebook,Office Supplies,Paper,5
+P007,Pen,Office Supplies,Writing,2
+
+
+OrderID,OrderDate,CustomerID,ProductID,Quantity,SalesAmount
+O1001,2024-01-05,C001,P001,1,900
+O1002,2024-01-06,C002,P003,2,360
+O1003,2024-01-07,C003,P002,3,75
+O1004,2024-01-10,C004,P004,1,350
+O1005,2024-01-12,C005,P006,10,50
+O1006,2024-01-15,C006,P005,1,220
+O1007,2024-01-18,C007,P001,2,1800
+O1008,2024-01-20,C008,P007,20,40
+O1009,2024-01-22,C001,P002,2,50
+O1010,2024-01-25,C002,P004,1,350
+
+
+
+
