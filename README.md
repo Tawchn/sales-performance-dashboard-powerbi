@@ -7,6 +7,7 @@ This dashboard answers:
 - Which customers, cities, and segments contribute the most?
 - How do sales change over time?
 
+[dashbord overall view](overview.png)
 ## Dataset
 This project uses a small sample dataset (CSV) created for learning and demonstration.
 
