@@ -23,13 +23,12 @@ Relationships:
 - Customers[CustomerID] → Sales[CustomerID] (1:* )
 - Products[ProductID] → Sales[ProductID] (1:* )
 
-Add a screenshot of the model here:
-- `screenshots/model.png`
+
 
 ## Measures (DAX)
 Create these measures in Power BI:
 
-```DAX
+## DAX
 Total Sales = SUM(Sales[SalesAmount])
 
 Total Quantity = SUM(Sales[Quantity])
